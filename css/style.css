@@ -202,7 +202,7 @@ h1,h2,h3 {
   background:linear-gradient(135deg,var(--primary),var(--secondary));
   color:white;
   text-align:center;
-  padding:80px 20px;
+  padding:48px 20px;
 }
 
 .cta-big h2 {
@@ -214,13 +214,13 @@ h1,h2,h3 {
 .footer {
   background:#0e0e0e;
   color:#ccc;
-  padding:60px 0 30px;
+  padding:40px 0 20px;
 }
 
 .footer-grid {
   display:grid;
   grid-template-columns:repeat(2,1fr);
-  gap:40px;
+  gap:24px;
 }
 
 .footer a {
@@ -234,8 +234,8 @@ h1,h2,h3 {
 
 .footer p {
   text-align:center;
-  margin-top:40px;
-  font-size:13px;
+  margin-top:20px;
+  font-size:12px;
   opacity:.7;
 }
 
